@@ -1,5 +1,5 @@
 <?php
-namespace light\yii2;
+namespace bestyii\yii2;
 
 use yii\web\Request;
 
