@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace light\yii2;
+namespace bestyii\yii2;
 
 use yii\base\BaseObject;
 use yii\web\BadRequestHttpException;
