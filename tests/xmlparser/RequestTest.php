@@ -1,5 +1,5 @@
 <?php
-namespace bestyii\yii2;
+namespace bestyii\xml\parser;
 
 use yii\web\Request;
 

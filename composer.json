@@ -18,7 +18,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "bestyii\\yii2\\": "src/"
+      "bestyii\\xml\\parser\\": "src"
     }
   }
 }
