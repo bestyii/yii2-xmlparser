@@ -1,5 +1,5 @@
 {
-  "name": "light/yii2-xmlparser",
+  "name": "bestyii/yii2-xmlparser",
   "description": "yii2 xml request parser",
   "keywords": ["yii2", "xml", "parse", "request", "Request"],
   "require": {
@@ -18,7 +18,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "light\\yii2\\": "src/"
+      "bestyii\\yii2\\": "src/"
     }
   }
 }
