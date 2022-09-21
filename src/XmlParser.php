@@ -11,7 +11,7 @@
 
 namespace light\yii2;
 
-use yii\base\Object;
+use yii\base\BaseObject;
 use yii\web\BadRequestHttpException;
 use yii\web\RequestParserInterface;
 
@@ -23,7 +23,7 @@ use yii\web\RequestParserInterface;
  *
  * @version 0.2.11
  */
-class XmlParser extends Object implements RequestParserInterface
+class XmlParser extends BaseObject implements RequestParserInterface
 {
     /**
      * If parser result as array, this is default,
